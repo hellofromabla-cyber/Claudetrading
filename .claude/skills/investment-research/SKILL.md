@@ -68,11 +68,20 @@ gut-check in the same first message, rather than waiting until step 3 to
 raise risk at all. It costs nothing to ask early, and it primes the user to
 think about downside before they've mentally anchored on a return they
 want — asking about risk only after discussing goals/assets can make it
-feel like an afterthought bolted onto a decision they've already made. Use
-the gut-check question from `references/risk-profile.md` ("if this dropped
-30% in a month, what would you do?") alongside the emergency-fund/debt
-check from step 2 — the full risk capacity/tolerance reconciliation still
-happens at step 3, this is just an early signal to start calibrating on.
+feel like an afterthought bolted onto a decision they've already made.
+Pull in a few of the quick questions from `references/risk-profile.md`
+rather than just the single gut-check — they're cheap to ask together and
+each surfaces something different:
+- "If this dropped 30% in a month, what would you do?" (tolerance)
+- Have they lived through a real downturn before (2008, 2020, a personal
+  investment loss) — and what did they actually do at the time, not what
+  they wish they'd done? (tolerance, grounded in real behavior rather than
+  a hypothetical)
+- How stable is their income — could it stop unexpectedly? (capacity)
+
+Ask these alongside the emergency-fund/debt check from step 2 — the full
+risk capacity/tolerance reconciliation still happens at step 3, this is
+just an early signal to start calibrating on.
 
 ### 1. Goal
 What is this money for, and by when? "Grow wealth generally" is a valid

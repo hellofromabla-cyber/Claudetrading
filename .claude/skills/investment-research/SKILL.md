@@ -63,6 +63,17 @@ quick answer, or when their situation is genuinely unusual (e.g. investing
 across two countries' tax systems, saving for a goal under 2 years away,
 very low starting capital).
 
+**Opening message:** pair the goal question with a quick risk-management
+gut-check in the same first message, rather than waiting until step 3 to
+raise risk at all. It costs nothing to ask early, and it primes the user to
+think about downside before they've mentally anchored on a return they
+want — asking about risk only after discussing goals/assets can make it
+feel like an afterthought bolted onto a decision they've already made. Use
+the gut-check question from `references/risk-profile.md` ("if this dropped
+30% in a month, what would you do?") alongside the emergency-fund/debt
+check from step 2 — the full risk capacity/tolerance reconciliation still
+happens at step 3, this is just an early signal to start calibrating on.
+
 ### 1. Goal
 What is this money for, and by when? "Grow wealth generally" is a valid
 answer but a weak one — push gently for specifics (retirement in 30 years,

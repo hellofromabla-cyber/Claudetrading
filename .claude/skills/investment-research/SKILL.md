@@ -122,15 +122,21 @@ without written rules tends to quietly become "whatever feels right during
 the next crash," which is how plans fail. See `references/strategy.md`.
 
 ### 9. Broker
-Now that the plan is defined, pick the platform that can execute it:
-regulatory coverage in the user's jurisdiction, access to the chosen
-markets/assets, fee structure (including ones people miss like FX and
-inactivity fees), account protections, and usability. Never name a "best"
-broker from memory — recommend the *criteria* and, if you have live search
-available, look up current options; otherwise tell the user what to check
-and where (the relevant financial regulator's register is the authoritative
-source for "is this broker actually licensed"). See
-`references/broker-checklist.md`.
+"Broker" here means the actual trading app or bank platform the user opens
+an account with — now that the plan is defined, pick the one that can
+execute it. First narrow to candidates that pass basic gate checks
+(regulatory status in the user's jurisdiction, access to the chosen
+markets/assets, account minimums that fit the budget); among those, **fees
+are usually the deciding factor** for a new starter, since fees are known in
+advance and compound against the account over time in a way that market
+performance can't be predicted or controlled. Compare the full fee picture
+(trading commissions, platform fees, FX conversion, fund expense ratios,
+inactivity/withdrawal fees), not just the headline number a platform
+advertises. Never name a "best" broker from memory — recommend the
+*criteria* and, if you have live search available, look up current options;
+otherwise tell the user what to check and where (the relevant financial
+regulator's register is the authoritative source for "is this broker
+actually licensed"). See `references/broker-checklist.md`.
 
 ## Output: the research brief
 

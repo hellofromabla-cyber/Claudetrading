@@ -1,0 +1,146 @@
+---
+name: investment-research
+description: Guides someone new to investing through a structured research process before they put money into anything — working through their goal, budget, risk profile, timing, target market, asset choice, diversification plan, strategy, and broker selection, in that order. Use this skill whenever a new or inexperienced investor asks how to start investing, what to invest in, how to pick a broker, what their risk tolerance is, how to build a diversified portfolio, when to buy, how much to invest, or how to set an investment goal or strategy — even if they only mention one piece (like "which broker should I use?") since that decision depends on the others. Always frame output as educational research, not personalized financial advice.
+---
+
+# Investment Research for New Starters
+
+## Why this exists
+
+A new investor who jumps straight to "what stock should I buy?" has skipped the
+questions that actually determine whether that stock is a good idea *for them*.
+The same asset can be a smart pick for one person and reckless for another,
+depending on their goal, timeline, and how much loss they can absorb. This
+skill's job is to slow that down: walk the person through nine linked
+decisions, in an order where each one narrows the next, and end with a single
+written brief they can act on or take to a licensed advisor.
+
+**This skill produces research and a decision framework, not investment
+advice.** Never tell the user to buy a specific ticker, and never state
+current prices, rates, fees, or regulatory facts from memory — those go stale
+and being wrong here costs the user real money. When a fact needs to be
+current (a broker's fee schedule, a fund's expense ratio, a country's tax
+treatment of capital gains), say so explicitly and point the user to check
+the primary source, or look it up if you have live tools available. Every
+brief you produce should end with a short disclaimer: this is educational,
+not personalized financial/tax/legal advice, and large or irreversible
+decisions deserve a licensed professional.
+
+## The nine decisions, and why this order
+
+1. **Goal** — what the money is for and when it's needed
+2. **Budget** — how much can actually go in, safely
+3. **Risk profile** — how much loss they can take, financially and emotionally
+4. **Timing** — when and how to put money in
+5. **Market** — which geography/sector/market to focus research on
+6. **Asset** — which vehicle within that market
+7. **Diversification plan** — how to spread risk across 5 and 6
+8. **Strategy** — the rules that tie it all together and keep them on track
+9. **Broker** — where to actually execute, chosen last because it should
+   serve the plan, not shape it
+
+Decisions 1–3 are constraints: they don't change often and everything else
+must fit inside them. Decisions 4–8 are the actual plan. Decision 9 is
+mechanical — pick it last so the platform doesn't quietly limit what markets
+or assets the person considers.
+
+Don't treat this as a rigid script the user must complete top-to-bottom in
+one sitting. If they arrive asking only "which broker should I use," it's
+fine to answer that specifically — but note which upstream decisions (goal,
+budget, risk profile, market/asset access) actually drive a good broker
+choice, and offer to work through those too. People also loop back — learning
+their risk profile can change the market they consider, which can change the
+budget they're comfortable committing. Treat the numbered list as a
+dependency order, not a one-way pipeline.
+
+## How to run this
+
+For each decision below, ask enough questions to fill it in — don't just
+lecture. Keep the exchange conversational; you don't need every question
+answered before moving on if the user clearly already knows what they want.
+Pull in the matching reference file when the user needs more depth than a
+quick answer, or when their situation is genuinely unusual (e.g. investing
+across two countries' tax systems, saving for a goal under 2 years away,
+very low starting capital).
+
+### 1. Goal
+What is this money for, and by when? "Grow wealth generally" is a valid
+answer but a weak one — push gently for specifics (retirement in 30 years,
+a house deposit in 5, extra income now) because the time horizon and
+purpose drive almost every later decision. See `references/goals-and-budget.md`.
+
+### 2. Budget
+How much is going in as a lump sum, and/or how much regularly? Check first
+that this money isn't needed for near-term expenses or debt payoff —
+investing before covering an emergency fund or high-interest debt is one of
+the most common mistakes new investors make. See
+`references/goals-and-budget.md`.
+
+### 3. Risk profile
+Two separate things, often conflated: risk **capacity** (what their finances
+can technically absorb — a 25-year-old saving for retirement can absorb more
+volatility than a 60-year-old about to retire) and risk **tolerance** (what
+they can stomach emotionally without panic-selling in a downturn). A plan
+that's technically sound but emotionally unbearable gets abandoned at the
+worst possible time. See `references/risk-profile.md` for a short set of
+questions that surface both.
+
+### 4. Timing
+Covers two different questions people conflate: *when in the market cycle*
+(trying to time highs/lows — generally discouraged, explain why) and *how to
+phase money in* (lump sum vs. dollar-cost averaging, and what each trades
+off). Also cover sequencing relative to goal #1 — timing matters more as the
+goal date approaches. See `references/timing.md`.
+
+### 5. Market
+Which geography, sector, or market segment fits the goal and risk profile —
+home-country vs. international, developed vs. emerging, broad market vs.
+concentrated sector. Flag currency risk when the user's spending currency
+differs from the market they're considering. See
+`references/markets-and-assets.md`.
+
+### 6. Asset
+Within the chosen market(s), which vehicle: individual stocks/bonds, index
+funds/ETFs, mutual funds, real estate, commodities, cash equivalents,
+crypto, etc. For a new starter, be explicit about the tradeoff between
+single-security picking (higher research burden and concentration risk) and
+pooled vehicles (instant diversification, lower effort). See
+`references/markets-and-assets.md`.
+
+### 7. Diversification plan
+How the chosen assets and markets combine so that no single company,
+sector, or country failing can wipe out the plan. This is where goal,
+budget, risk profile, and asset choice all get reconciled into an actual
+allocation (e.g. "70% broad global equity index, 20% bonds, 10% cash").
+See `references/diversification.md`.
+
+### 8. Strategy
+The written rules that make the plan repeatable and keep emotion out of it:
+active vs. passive, buy-and-hold vs. periodic rebalancing, what triggers a
+sell (if anything), and how often the whole plan gets reviewed. A strategy
+without written rules tends to quietly become "whatever feels right during
+the next crash," which is how plans fail. See `references/strategy.md`.
+
+### 9. Broker
+Now that the plan is defined, pick the platform that can execute it:
+regulatory coverage in the user's jurisdiction, access to the chosen
+markets/assets, fee structure (including ones people miss like FX and
+inactivity fees), account protections, and usability. Never name a "best"
+broker from memory — recommend the *criteria* and, if you have live search
+available, look up current options; otherwise tell the user what to check
+and where (the relevant financial regulator's register is the authoritative
+source for "is this broker actually licensed"). See
+`references/broker-checklist.md`.
+
+## Output: the research brief
+
+Once you've worked through enough of the nine decisions to be useful,
+produce a single brief so the user has something concrete to keep or share.
+Use `assets/research-worksheet.md` as the template — copy it, fill in what's
+been decided, and mark anything still open as "TBD" rather than guessing.
+Close every brief with the disclaimer from the Why-this-exists section above.
+
+Don't treat the brief as final once written — if the user comes back later
+having learned more about their risk tolerance or found a goal has changed,
+update it rather than starting over, since the whole point is that these
+nine decisions stay linked.

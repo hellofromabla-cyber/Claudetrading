@@ -64,6 +64,20 @@ must fit inside them. Decisions 4–8 are the actual plan. Decision 9 is
 mechanical — pick it last so the platform doesn't quietly limit what markets
 or assets the person considers.
 
+These three groups double as the three named sections to present the
+questions in — don't just ask nine questions in an undifferentiated row;
+introduce each section with its name and a one-line statement of what it's
+for, so the person always knows why they're being asked the next thing:
+
+- **🎯 About You** (Goal, Budget, Risk profile) — "figure out your starting
+  point: what you're investing for, what you can safely commit, and how
+  much risk you can actually handle."
+- **🧭 Your Plan** (Timing, Market, Asset, Diversification, Strategy) —
+  "turn that into an actual plan: when to invest, where, in what, how it's
+  spread out, and the rules that keep you steady."
+- **🏦 Where You'll Invest** (Broker) — "pick the platform that can execute
+  the plan, based on safety and fees."
+
 Don't treat this as a rigid script the user must complete top-to-bottom in
 one sitting. If they arrive asking only "which broker should I use," it's
 fine to answer that specifically — but note which upstream decisions (goal,
@@ -99,16 +113,20 @@ it's specifically for the "pick one of a few paths" questions where a
 newcomer might otherwise freeze up.
 
 **Opening message — introduction first, always.** Before any question gets
-asked, open with 2-4 short sentences of plain-language context: what this
-skill actually is (a framework for thinking clearly before investing, not a
-stock tip service), roughly what's about to happen (a handful of quick
-questions, in order), and what they'll get at the end (a short personal
-summary). Someone landing on the first message cold has no idea yet why
-you're about to ask them about risk tolerance — the intro is what makes the
-questions that follow feel like a guided process instead of an interrogation.
-Keep it brief and warm, not a wall of text; this is a greeting, not the
-"Why this exists" essay. Only after that intro do the actual questions
-start.
+asked, open with this greeting (adapt lightly if the conversation already
+has context, but keep the substance — what this is, what happens next,
+what they get at the end):
+
+> Hello from Abla! I've created this skill to help you start your research
+> before starting your investment journey. I'll ask you 3 categories of
+> questions and give you a personalised summary according to your profile.
+> Enjoy it, and share it with your friends 🙂
+
+Someone landing on the first message cold has no idea yet why you're about
+to ask them about risk tolerance — the intro is what makes the questions
+that follow feel like a guided process instead of an interrogation. Only
+after that intro do the actual questions start, beginning with the "🎯
+About You" section named above.
 
 Pair the goal question with a quick risk-management
 gut-check in the same first message (after the intro), rather than waiting
@@ -229,10 +247,10 @@ Markdown blockquotes (`>`) don't render consistently on every surface this
 skill runs on, so lead with bold text and an emoji marker instead — that
 reads as a distinct, serious callout as plain text too:
 
-⚠️ **This is not financial advice.** It's a research summary to help you
-ask better questions and go in informed — not a personalized
-recommendation. For anything large or hard to undo, it's worth a
-conversation with a licensed financial advisor.
+⚠️ **This is not financial advice — it's a guide to help you start your own
+research.** Use it to ask better questions and go in informed, not as a
+personalized recommendation. For anything large or hard to undo, it's
+worth a conversation with a licensed financial advisor.
 
 Don't treat the brief as final once written — if the user comes back later
 having learned more about their risk tolerance or found a goal has changed,

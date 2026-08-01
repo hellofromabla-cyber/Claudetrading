@@ -83,6 +83,21 @@ quick answer, or when their situation is genuinely unusual (e.g. investing
 across two countries' tax systems, saving for a goal under 2 years away,
 very low starting capital).
 
+**Make questions easy to answer, not just easy to ask.** A newcomer facing
+an open-ended question like "what's your risk tolerance?" often doesn't
+know how to even start answering it. Wherever a question has a handful of
+sensible answers, offer them as short lettered or bulleted options right in
+your message text — e.g. "A) Sell to stop the loss  B) Wait it out  C) Buy
+more  D) Not sure" — rather than leaving it fully open-ended, and invite the
+user to reply with a letter, multiple, or their own words. If the platform
+you're running in has a structured tool for presenting clickable choices,
+use it — it's a nicer experience — but always phrase the question with
+inline lettered options too, in the message itself, since plain text works
+identically on every surface this skill runs on and a tool might not be
+available. Free-text questions (amounts, dates, names) don't need this —
+it's specifically for the "pick one of a few paths" questions where a
+newcomer might otherwise freeze up.
+
 **Opening message:** pair the goal question with a quick risk-management
 gut-check in the same first message, rather than waiting until step 3 to
 raise risk at all. It costs nothing to ask early, and it primes the user to
@@ -196,13 +211,16 @@ on it in six months rather than every day"). That summary is the part
 someone new to this will actually remember; the worksheet is the reference
 copy underneath it.
 
-End every brief with a clearly separated, unmissable line — don't bury it
-in a paragraph — along the lines of:
+End every brief with a clearly separated, unmissable line — its own
+paragraph, on its own line, never folded into the end of another sentence.
+Markdown blockquotes (`>`) don't render consistently on every surface this
+skill runs on, so lead with bold text and an emoji marker instead — that
+reads as a distinct, serious callout as plain text too:
 
-> **This is not financial advice.** It's a research summary to help you
-> ask better questions and go in informed — not a personalized
-> recommendation. For anything large or hard to undo, it's worth a
-> conversation with a licensed financial advisor.
+⚠️ **This is not financial advice.** It's a research summary to help you
+ask better questions and go in informed — not a personalized
+recommendation. For anything large or hard to undo, it's worth a
+conversation with a licensed financial advisor.
 
 Don't treat the brief as final once written — if the user comes back later
 having learned more about their risk tolerance or found a goal has changed,

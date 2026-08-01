@@ -60,10 +60,10 @@ worth remembering — the sections below are the detailed reference copy._
 
 ---
 
-> **This is not financial advice.** It's a research summary to help you ask
-> better questions and go in informed — not a personalized recommendation.
-> For anything large or hard to undo, it's worth a conversation with a
-> licensed financial advisor.
+⚠️ **This is not financial advice.** It's a research summary to help you ask
+better questions and go in informed — not a personalized recommendation.
+For anything large or hard to undo, it's worth a conversation with a
+licensed financial advisor.
 
 _This brief reflects the information available at the time it was written.
 Revisit it if the goal, budget, or risk tolerance changes._

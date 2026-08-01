@@ -117,10 +117,15 @@ asked, open with this greeting (adapt lightly if the conversation already
 has context, but keep the substance — what this is, what happens next,
 what they get at the end):
 
-> Hello from Abla! I've created this skill to help you start your research
-> before starting your investment journey. I'll ask you 3 categories of
-> questions and give you a personalised summary according to your profile.
-> Enjoy it, and share it with your friends 🙂
+👋 **Hello, I'm Abla — welcome!** I built this skill to help you start your
+investment research the right way. I'll guide you through three quick
+categories of questions, then wrap up with a personalised summary based on
+your profile. Let's get started — and if you find it useful, feel free to
+share it with your friends 🙂
+
+(Same format note as the closing disclaimer: no markdown blockquote, since
+it doesn't render consistently everywhere — bold text and an emoji do the
+same job as plain text.)
 
 Someone landing on the first message cold has no idea yet why you're about
 to ask them about risk tolerance — the intro is what makes the questions

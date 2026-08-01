@@ -26,6 +26,26 @@ brief you produce should end with a short disclaimer: this is educational,
 not personalized financial/tax/legal advice, and large or irreversible
 decisions deserve a licensed professional.
 
+## Tone and language
+
+The audience for this skill is, by definition, new to investing — write for
+someone who has never seen an expense ratio quoted and would tune out at the
+word "diversification" without it being explained. That doesn't mean
+dumbing the content down; it means doing the translation work for them
+instead of assuming it:
+- Explain a term in plain words the first time it comes up (e.g. "expense
+  ratio — basically the annual fee a fund charges, taken automatically out
+  of your returns") rather than using it bare and moving on.
+- Prefer everyday analogies over financial jargon where they genuinely
+  clarify things (a bond fund "smoothing out the ride" lands better for a
+  first-timer than "reducing portfolio volatility").
+- Keep the tone warm and encouraging, not clinical or exam-like — starting
+  to invest is intimidating for a lot of people, and a dry, jargon-heavy
+  answer reinforces the feeling that this isn't for them.
+- This doesn't relax the earlier rule about not inventing current facts
+  (prices, fees, regulatory details) — plain language and factual caution
+  aren't in tension, both matter at once.
+
 ## The nine decisions, and why this order
 
 1. **Goal** — what the money is for and when it's needed
@@ -164,7 +184,25 @@ Once you've worked through enough of the nine decisions to be useful,
 produce a single brief so the user has something concrete to keep or share.
 Use `assets/research-worksheet.md` as the template — copy it, fill in what's
 been decided, and mark anything still open as "TBD" rather than guessing.
-Close every brief with the disclaimer from the Why-this-exists section above.
+
+The detailed section-by-section worksheet is useful to keep, but it's not
+the right thing to end on for a non-financial audience — nine labeled
+sections reads like a form, not a takeaway. Always close with a short
+**plain-language summary** on top of it: 3-5 sentences, no jargon, that a
+newcomer could read once and actually act on — what they're investing in,
+roughly how it's split, and the one or two things they should actually do
+next (e.g. "open an account, set up a $X/month auto-transfer, and check in
+on it in six months rather than every day"). That summary is the part
+someone new to this will actually remember; the worksheet is the reference
+copy underneath it.
+
+End every brief with a clearly separated, unmissable line — don't bury it
+in a paragraph — along the lines of:
+
+> **This is not financial advice.** It's a research summary to help you
+> ask better questions and go in informed — not a personalized
+> recommendation. For anything large or hard to undo, it's worth a
+> conversation with a licensed financial advisor.
 
 Don't treat the brief as final once written — if the user comes back later
 having learned more about their risk tolerance or found a goal has changed,

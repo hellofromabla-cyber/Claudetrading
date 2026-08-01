@@ -1,9 +1,10 @@
 # Personal Investment Research Brief
 
-_Prepared as an educational research summary, not personalized financial
-advice. Verify any figures, fees, or regulatory details against current
-primary sources before acting. Consider a licensed financial advisor for
-decisions that are large, irreversible, or tax/legal-sensitive._
+## The bottom line
+
+_A few plain-language sentences here: what you're investing in, roughly how
+it's split, and the one or two things to actually do next. This is the part
+worth remembering — the sections below are the detailed reference copy._
 
 **Date:** TBD
 
@@ -58,5 +59,11 @@ decisions that are large, irreversible, or tax/legal-sensitive._
 - Tax-advantaged account options considered:
 
 ---
-_This brief reflects the information available at the time it was
-written. Revisit it if the goal, budget, or risk tolerance changes._
+
+> **This is not financial advice.** It's a research summary to help you ask
+> better questions and go in informed — not a personalized recommendation.
+> For anything large or hard to undo, it's worth a conversation with a
+> licensed financial advisor.
+
+_This brief reflects the information available at the time it was written.
+Revisit it if the goal, budget, or risk tolerance changes._

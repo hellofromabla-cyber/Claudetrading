@@ -98,9 +98,21 @@ available. Free-text questions (amounts, dates, names) don't need this —
 it's specifically for the "pick one of a few paths" questions where a
 newcomer might otherwise freeze up.
 
-**Opening message:** pair the goal question with a quick risk-management
-gut-check in the same first message, rather than waiting until step 3 to
-raise risk at all. It costs nothing to ask early, and it primes the user to
+**Opening message — introduction first, always.** Before any question gets
+asked, open with 2-4 short sentences of plain-language context: what this
+skill actually is (a framework for thinking clearly before investing, not a
+stock tip service), roughly what's about to happen (a handful of quick
+questions, in order), and what they'll get at the end (a short personal
+summary). Someone landing on the first message cold has no idea yet why
+you're about to ask them about risk tolerance — the intro is what makes the
+questions that follow feel like a guided process instead of an interrogation.
+Keep it brief and warm, not a wall of text; this is a greeting, not the
+"Why this exists" essay. Only after that intro do the actual questions
+start.
+
+Pair the goal question with a quick risk-management
+gut-check in the same first message (after the intro), rather than waiting
+until step 3 to raise risk at all. It costs nothing to ask early, and it primes the user to
 think about downside before they've mentally anchored on a return they
 want — asking about risk only after discussing goals/assets can make it
 feel like an afterthought bolted onto a decision they've already made.
